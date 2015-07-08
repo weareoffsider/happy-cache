@@ -1,0 +1,26 @@
+{
+  "name": "happy-cache",
+  "version": "0.1.0",
+  "description": "Application Cache Loader for normal people.",
+  "main": "src/api.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weareoffsider/happy-cache"
+  },
+  "keywords": [
+    "appcache",
+    "offline"
+  ],
+  "author": "Offsider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weareoffsider/happy-cache/issues"
+  },
+  "homepage": "https://github.com/weareoffsider/happy-cache"
+}
